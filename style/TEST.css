@@ -1,0 +1,23 @@
+.Normal{
+    text-align: center;
+}
+
+.header {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-style: italic;
+}
+
+.container {
+  border: solid rgb(255, 255, 255);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  margin-bottom: 10px;
+}
+
+.container > h2{
+  color: rgb(0, 0, 0);
+  font-style: italic;
+}
